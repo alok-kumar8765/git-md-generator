@@ -239,4 +239,4 @@ Feel free to check the [issues page](https://www.google.com/search?q=https://git
 
 If this project helped you build a better GitHub profile or saved you time, please give it a **⭐ Star** on GitHub! It helps other developers discover the project.
 
-*Built with ❤️ by [Your Name](https://github.com/alok-kumar8765).*
+*Built with ❤️ by [Alok Kumar Kaushal](https://github.com/alok-kumar8765).*
